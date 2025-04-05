@@ -1,2 +1,3 @@
-# Sarvam-ai
-This repository contains the solution to the assignments for Sarvam-ai's Research Fellowship
+Cross-Lingual Word Embedding Alignment
+This assignment Implements and evaluates a supervised cross-lingual word embedding alignment system for English and Hindi using the Procrustes method.
+
